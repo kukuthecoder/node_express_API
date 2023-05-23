@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "name": "jsmith",
+    "actualName": "Jane Smith",
+    "displayName": "Jane Smith"
+  },
+  {
+    "id": "002",
+    "name": "kudzie",
+    "actualName": "kudzai chikomwe",
+    "displayName": "admin"
+  },
+  {
+    "id": "003",
+    "name": "releaser",
+    "actualName": null,
+    "displayName": "releaser"
+  },
+  {
+    "id": "004",
+    "name": "user",
+    "actualName": null,
+    "displayName": "user"
+  }
+]
